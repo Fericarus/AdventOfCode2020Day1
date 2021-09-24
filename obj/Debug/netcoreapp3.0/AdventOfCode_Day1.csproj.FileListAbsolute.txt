@@ -1,0 +1,11 @@
+C:\Users\feric\source\repos\AdventOfCode_Day1\bin\Debug\netcoreapp3.0\AdventOfCode_Day1.exe
+C:\Users\feric\source\repos\AdventOfCode_Day1\bin\Debug\netcoreapp3.0\AdventOfCode_Day1.deps.json
+C:\Users\feric\source\repos\AdventOfCode_Day1\bin\Debug\netcoreapp3.0\AdventOfCode_Day1.runtimeconfig.json
+C:\Users\feric\source\repos\AdventOfCode_Day1\bin\Debug\netcoreapp3.0\AdventOfCode_Day1.runtimeconfig.dev.json
+C:\Users\feric\source\repos\AdventOfCode_Day1\bin\Debug\netcoreapp3.0\AdventOfCode_Day1.dll
+C:\Users\feric\source\repos\AdventOfCode_Day1\bin\Debug\netcoreapp3.0\AdventOfCode_Day1.pdb
+C:\Users\feric\source\repos\AdventOfCode_Day1\obj\Debug\netcoreapp3.0\AdventOfCode_Day1.csprojAssemblyReference.cache
+C:\Users\feric\source\repos\AdventOfCode_Day1\obj\Debug\netcoreapp3.0\AdventOfCode_Day1.AssemblyInfoInputs.cache
+C:\Users\feric\source\repos\AdventOfCode_Day1\obj\Debug\netcoreapp3.0\AdventOfCode_Day1.AssemblyInfo.cs
+C:\Users\feric\source\repos\AdventOfCode_Day1\obj\Debug\netcoreapp3.0\AdventOfCode_Day1.dll
+C:\Users\feric\source\repos\AdventOfCode_Day1\obj\Debug\netcoreapp3.0\AdventOfCode_Day1.pdb
